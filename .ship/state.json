@@ -1,0 +1,16 @@
+{
+  "v1": {
+    "config": null,
+    "releaseName": "ship",
+    "upstream": "github.com/miracle2k/k8s-snapshots/rbac.yaml",
+    "contentSHA": "0dc13bbc01203089c3270bc313275b810c6c5cd06f9953f411610806af824a50",
+    "lifecycle": {
+      "stepsCompleted": {
+        "kustomize": true,
+        "kustomize-intro": true,
+        "outro": true,
+        "render": true
+      }
+    }
+  }
+}

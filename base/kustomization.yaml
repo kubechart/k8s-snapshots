@@ -1,0 +1,6 @@
+kind: ""
+apiversion: ""
+resources:
+- ClusterRole-k8s-snapshots-kube-system.yaml
+- ClusterRoleBinding-k8s-snapshots-kube-system.yaml
+- ServiceAccount-k8s-snapshots-kube-system.yaml
